@@ -47,6 +47,16 @@ We're a student-run Hack Club. Every week we pick something to build, argue abou
 
 Full steps are in the [gallery README](https://github.com/Innovate-DIAB/innovate-diab.github.io#readme).
 
+## 🧑‍💻 Organised by
+
+<div align="center">
+
+<a href="https://github.com/AdityaJainDXB"><img src="https://github.com/AdityaJainDXB.png?size=100" width="100" alt="Aditya Jain" /><br/><b>Aditya Jain</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Saigamer007pro"><img src="https://github.com/Saigamer007pro.png?size=100" width="100" alt="Saikrish Elangovan" /><br/><b>Saikrish Elangovan</b></a>
+
+</div>
+
 ## 🌍 About Hack Club
 
 [Hack Club](https://hackclub.com) is a nonprofit network of high school coding clubs around the world, run by students. Nobody hands you a syllabus. You build what you want to build.
