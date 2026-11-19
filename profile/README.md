@@ -14,6 +14,12 @@
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Innovate-DIAB/innovate-diab.github.io/main/assets/logo-full.png" width="200" alt="Innovate @ DIAB logo" />
+
+</div>
+
 ## 👋 Who we are
 
 We're a student-run Hack Club. Every week we pick something to build, argue about how to build it, and ship it. You don't need any experience. Most of us started with none.
