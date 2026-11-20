@@ -11,7 +11,8 @@
 
 <br/>
 
-[![Sign up](https://img.shields.io/badge/SIGN%20UP-Join%20the%20club-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
+[![DIAB sign up](https://img.shields.io/badge/SIGN%20UP-DIAB%20students-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
+[![External sign up](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovate-diab.github.io/website-hackclub/signup.html)
 [![Gallery](https://img.shields.io/badge/PROJECT%20GALLERY-See%20what%20we%20made-ff8c37?style=for-the-badge)](https://innovate-diab.github.io)
 [![TikTok](https://img.shields.io/badge/TIKTOK-@innovatediab-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@innovatediab)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@innovateat__diab-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/innovateat_diab/)
@@ -28,11 +29,12 @@ We're a student-run Hack Club. Every week we pick something to build, argue abou
 
 ## 📅 When we meet
 
-**Wednesday or Monday at lunch.** We email the exact day on Outlook each week.
+**Wednesday or Monday at lunch.** We send the exact day via email each week.
 
 <div align="center">
 
-[![Sign up now](https://img.shields.io/badge/SIGN%20UP%20NOW-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
+[![DIAB students](https://img.shields.io/badge/SIGN%20UP-DIAB%20students-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
+[![Other schools](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovate-diab.github.io/website-hackclub/signup.html)
 
 </div>
 
