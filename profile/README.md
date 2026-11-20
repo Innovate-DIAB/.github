@@ -8,6 +8,7 @@
 
 [![Sign up](https://img.shields.io/badge/SIGN%20UP-Join%20the%20club-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
 [![Gallery](https://img.shields.io/badge/PROJECT%20GALLERY-See%20what%20we%20made-ff8c37?style=for-the-badge)](https://innovate-diab.github.io)
+[![TikTok](https://img.shields.io/badge/TIKTOK-@innovatediab-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@innovatediab)
 [![Hack Club](https://img.shields.io/badge/HACK%20CLUB-Nonprofit%20network-338eda?style=for-the-badge)](https://hackclub.com)
 
 </div>
