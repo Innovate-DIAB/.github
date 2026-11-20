@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ec3750,100:ff8c37&text=Innovate%20%40%20DIAB&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Hack%20Club%20at%20Dubai%20International%20Academy%20Al%20Barsha&descAlignY=58&descSize=18" alt="Innovate @ DIAB banner" />
-
-<img src="https://raw.githubusercontent.com/Innovate-DIAB/innovate-diab.github.io/main/assets/logo-full.png" width="130" alt="Innovate @ DIAB logo" />
+<table align="center">
+<tr>
+<td valign="middle"><img src="https://raw.githubusercontent.com/Innovate-DIAB/innovate-diab.github.io/main/assets/logo-full.png" width="170" alt="Innovate @ DIAB logo" /></td>
+<td valign="middle"><img width="640" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ec3750,100:ff8c37&text=Innovate%20%40%20DIAB&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Hack%20Club%20at%20Dubai%20International%20Academy%20Al%20Barsha&descAlignY=58&descSize=18" alt="Innovate @ DIAB banner" /></td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EC3750&center=true&vCenter=true&width=640&lines=We+build+websites+%F0%9F%8C%90;We+build+games+%F0%9F%8E%AE;We+build+circuit+boards+%F0%9F%94%A7;We+ship+things+%F0%9F%9A%80" alt="Typing animation" />
 
