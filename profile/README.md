@@ -29,7 +29,9 @@ We're a student-run Hack Club. Every week we pick something to build, argue abou
 
 ## 📅 When we meet
 
-**Wednesday or Monday at lunch.** We send the exact day via email each week.
+**DIAB students (internal):** Wednesday or Monday at lunch. We send the exact day via email each week.
+
+**Other schools (external):** every Friday at 4:00 PM GST (GMT+4), online.
 
 <div align="center">
 
