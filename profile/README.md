@@ -15,6 +15,7 @@
 [![Gallery](https://img.shields.io/badge/PROJECT%20GALLERY-See%20what%20we%20made-ff8c37?style=for-the-badge)](https://innovate-diab.github.io)
 [![TikTok](https://img.shields.io/badge/TIKTOK-@innovatediab-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@innovatediab)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@innovateat__diab-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/innovateat_diab/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-@InnovateDIAB-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InnovateDIAB)
 [![Hack Club](https://img.shields.io/badge/HACK%20CLUB-Nonprofit%20network-338eda?style=for-the-badge)](https://hackclub.com)
 
 </div>
