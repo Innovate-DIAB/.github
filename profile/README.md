@@ -12,7 +12,7 @@
 <br/>
 
 [![DIAB sign up](https://img.shields.io/badge/SIGN%20UP-DIAB%20students-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
-[![External sign up](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovate-diab.github.io/website-hackclub/signup.html)
+[![External sign up](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovatediab.dino.icu/signup.html)
 [![Gallery](https://img.shields.io/badge/PROJECT%20GALLERY-See%20what%20we%20made-ff8c37?style=for-the-badge)](https://innovate-diab.github.io)
 [![TikTok](https://img.shields.io/badge/TIKTOK-@innovatediab-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@innovatediab)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@innovateat__diab-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/innovateat_diab/)
@@ -36,7 +36,7 @@ We're a student-run Hack Club. Every week we pick something to build, argue abou
 <div align="center">
 
 [![DIAB students](https://img.shields.io/badge/SIGN%20UP-DIAB%20students-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
-[![Other schools](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovate-diab.github.io/website-hackclub/signup.html)
+[![Other schools](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovatediab.dino.icu/signup.html)
 
 </div>
 
