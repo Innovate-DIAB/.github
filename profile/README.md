@@ -13,7 +13,7 @@
 
 [![DIAB sign up](https://img.shields.io/badge/SIGN%20UP-DIAB%20students-ec3750?style=for-the-badge)](https://forms.cloud.microsoft/r/DDFd4ajd7E)
 [![External sign up](https://img.shields.io/badge/SIGN%20UP-Other%20schools-ff8c37?style=for-the-badge)](https://innovatediab.dino.icu/signup.html)
-[![Gallery](https://img.shields.io/badge/PROJECT%20GALLERY-See%20what%20we%20made-ff8c37?style=for-the-badge)](https://innovate-diab.github.io)
+[![Gallery](https://img.shields.io/badge/PROJECT%20GALLERY-See%20what%20we%20made-ff8c37?style=for-the-badge)](https://innovatediab-gallery.dino.icu)
 [![TikTok](https://img.shields.io/badge/TIKTOK-@innovatediab-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@innovatediab)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@innovateat__diab-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/innovateat_diab/)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-@InnovateDIAB-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InnovateDIAB)
@@ -55,7 +55,7 @@ We're a student-run Hack Club. Every week we pick something to build, argue abou
 
 1. Make your project a public repo.
 2. Add the topic `diab-hc-bakebuild` (gear icon next to About).
-3. Hit **Submit a project** on the [gallery](https://innovate-diab.github.io).
+3. Hit **Submit a project** on the [gallery](https://innovatediab-gallery.dino.icu).
 
 Full steps are in the [gallery README](https://github.com/Innovate-DIAB/innovate-diab.github.io#readme).
 
